@@ -30,3 +30,7 @@ The output of this step is passed to the delay operatior. The output needs to be
 ### Sound
 You can change the notification sound on the sound step.
 <img width="810" alt="image" src="https://user-images.githubusercontent.com/285590/194775290-de731fc9-fc81-4672-b568-d1ee26d0d220.png">
+
+## About
+Created the workflow to quickly look up the next train time. Used this to learn more about Alfred workflows.
+The workflow scripts are written in Swift.
